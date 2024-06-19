@@ -1,6 +1,6 @@
 
 <img width="500" alt="domani" src="https://github.com/3G3M3N/domain_onerileri_with_Gemini_api/assets/83331577/4ae9b69a-44cb-4411-a290-78c62909be90"><br>
-<h1 target="_blank">https://domain-onerileri-geminiapi-1.onrender.com</h1>
+<a href target="_blank"><h1>https://domain-onerileri-geminiapi-1.onrender.com</h1></a>
 Adresinden test edebilir, kullanabilirsiniz :).
 
 <br>
