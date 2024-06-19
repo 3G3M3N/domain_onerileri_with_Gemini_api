@@ -9,7 +9,7 @@ Adresinden test edebilir, kullanabilirsiniz :).
 Uygulamanın sizde çalışması için; <br>
 1- npm install<br>
 2- .env dosyasına kendi gemini api key'inizi girin.<br>
-3- node server.js <br>
+3- terminal'de çalıştırın "node server.js" <br>
 <br>
 <br>
 
